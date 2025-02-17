@@ -1,0 +1,12 @@
+[packages]
+pandas = "*"
+jupyter = "*"
+notebook = "*"
+numpy = "*"
+ipykernel = "*"
+texas-hold-em-utils = "==0.1.12"
+matplotlib = "*"
+python-dotenv = "*"
+sqlalchemy = "*"
+scipy = "*"
+seaborn = "*"
